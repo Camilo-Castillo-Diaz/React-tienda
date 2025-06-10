@@ -1,5 +1,5 @@
 # Backend MERN - Calendar
-
+este es un proyecto de react
 ## Development
 
 1. Instalar dependencias `npm install`
